@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+#hamburger {
+  position: absolute;
+  width: 20%;
+  height: 30%;
+  top: 30%;
+  left: 10%;
+  background-color: blue;
+  border-radius: 1em;
+  opacity: 0.5;
+  cursor: pointer;
+}
